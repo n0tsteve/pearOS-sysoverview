@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>data/cat.png</file>
+    <file>data/disp.png</file>
+    <file>data/hdd.png</file>
+    <file>data/mjv.jpe</file>
+    <file>data/mjvn.png</file>
+  </qresource>
+</RCC>
